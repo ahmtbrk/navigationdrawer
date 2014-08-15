@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavigationDrawer-GY</string>
+    <string name="action_settings">Ayarlar</string>
+    
+    <string-array name="menu">
+        <item >Başlangıç</item>
+        <item >Android</item>
+        <item >IOS</item>
+        <item >Windows Phone</item>
+    </string-array>
+    
+    <string name="drawer_open">Drawer Açıldı</string>
+    <string name="drawer_close">Drawer Kapandı</string>
+
+</resources>
